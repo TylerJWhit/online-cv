@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -86,7 +86,7 @@ experiences:
       details: |
           - Resolved server, networking, and application problems for environments exceeding 1,000 users.
           - Continually handled and closed the most cases in the Portland office.
-    - role: Desktop Technician > On-Site Technician > Jr. Systems Administrator
+    - role: On-Site Technician > Jr. Systems Administrator
       time: October 2011 - May 2017
       company: Utilize IT, Longview, WA
       details: |
@@ -155,7 +155,7 @@ skills:
       - name: Powershell / Scripting
         level: 70%
 
-      - name: Networking Fundamentals (OSI Model, Networking Devices)
+      - name: Networking
         level: 70%
 
       - name: Technical Writing
